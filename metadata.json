@@ -1,0 +1,6 @@
+{
+  "name": "Sales Data Analysis and Business Insights Dashboard",
+  "description": "A modern, interactive sales analytics and business intelligence dashboard featuring revenue trends, product and customer performance analysis, automated insights, CSV/Excel dataset upload, and downloadable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
